@@ -8,3 +8,8 @@ This is my first blog post. I decided to just randomly come up with the idea to 
 The focus of this blog is to write down the conjunction of my personal and professional life (Maybe some dev stuff in future, idk), but not to spam or bombard the information everyday, but once or twice a week. This will actually help me track my Japanese progress ([Kanji][kanji] is tedious. Cries in corner) and maybe even help someone in the future who needs some sort of motivation (including myself).
 
 That's it for this one. Have a great day!
+
+
+[nasdaq]: https://nasdaq.com/
+[n5]: https://en.wikipedia.org/wiki/Japanese-Language_Proficiency_Test
+[kanji]: https://en.wikipedia.org/wiki/Kanji
