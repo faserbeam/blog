@@ -17,5 +17,5 @@ blog({
       "iocp-links.html": "iocp_links",
       "rant.html": "rant",
     }),
-  ],
+  ]
 });
